@@ -12,6 +12,10 @@ Just a simple starter project for web-application development based on spring fr
 4. Import the mysql_dump_03012022_1323.sql dump file (database name changes has to consider in application.properties file. Also changes at the database username and password.)
 
 ## Login
-Two users are present in database
-1. username: test-admin password: admin
-2. username: test-user password: test
+Two users are present in database. The passwords have been encrypted using BCrypt.
+1. username: test-admin
+   password: admin 
+   roles:[ADMIN,USER]
+2. username: test-user
+   password: test 
+   roles:[USER]
