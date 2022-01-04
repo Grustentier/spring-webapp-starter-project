@@ -13,9 +13,11 @@ Just a simple starter project for web-application development based on spring fr
 
 ## Login
 Two users are present in database. The passwords have been encrypted using BCrypt.
-1. username: test-admin
-   password: admin 
+1. username:test-admin
+   password:admin 
    roles:[ADMIN,USER]
-2. username: test-user
-   password: test 
+2. username:test-user
+   password:test 
    roles:[USER]
+   
+Different roles regulate content access. For example... In contrast to user test-user, test-admin sees an additional menu entry for administration.
