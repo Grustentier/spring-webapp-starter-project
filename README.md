@@ -21,3 +21,14 @@ Two users are present in database. The passwords have been encrypted using BCryp
    roles:[USER]
    
 Different roles regulate content access. For example... In contrast to user test-user, test-admin sees an additional menu entry for administration.
+
+## Sources
+Links of used icons:
+https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-high-icon.html
+https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-low-icon.html
+https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-medium-icon.html
+https://iconarchive.com/show/gentle-edges-icons-by-pixelkit/Trash-icon.html 
+https://iconarchive.com/show/crystal-clear-icons-by-everaldo/App-terminal-icon.html
+https://iconarchive.com/show/100-flat-icons-by-graphicloads/settings-3-icon.html
+https://iconarchive.com/show/beautiful-flat-icons-by-elegantthemes/globe-icon.html
+https://iconarchive.com/show/100-flat-2-icons-by-graphicloads/inside-logout-icon.html
