@@ -1,7 +1,7 @@
 # spring-webapp-starter-project
 
 Just a simple starter project for web-application development based on spring framework in combination with thymeleaf, hibernate and a tiny mysql-database. This project can form the basis for a far more complex web system. It just shows how Dependency Injection works and how Spring communicates with a database both internally and externally, e.g. via Hibernate. You can use this here freely to start your own web project. 
-
+![Image of Yaktocat](README/1.png)
 ## Installation
 1. Clone this repo
 2. Within Eclipse:
