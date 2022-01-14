@@ -24,11 +24,23 @@ Different roles regulate content access. For example... In contrast to user test
 
 ## Sources
 Links of used icons:
-https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-high-icon.html
-https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-low-icon.html
-https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-medium-icon.html
-https://iconarchive.com/show/gentle-edges-icons-by-pixelkit/Trash-icon.html 
-https://iconarchive.com/show/crystal-clear-icons-by-everaldo/App-terminal-icon.html
-https://iconarchive.com/show/100-flat-icons-by-graphicloads/settings-3-icon.html
-https://iconarchive.com/show/beautiful-flat-icons-by-elegantthemes/globe-icon.html
-https://iconarchive.com/show/100-flat-2-icons-by-graphicloads/inside-logout-icon.html
+- https://iconarchive.com/show/windows-8-icons-by-icons8/Logos-Registry-Editor-icon.html thanks to http://icons8.com 
+- https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-medium-icon.html
+- https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-high-icon.html
+- https://iconarchive.com/show/papirus-apps-icons-by-papirus-team/security-low-icon.html
+- https://iconarchive.com/show/100-flat-2-icons-by-graphicloads/inside-logout-icon.html
+- https://iconarchive.com/show/crystal-clear-icons-by-everaldo/App-terminal-icon.html
+- https://iconarchive.com/show/beautiful-flat-icons-by-elegantthemes/globe-icon.html
+- https://iconarchive.com/show/100-flat-icons-by-graphicloads/settings-3-icon.html
+- https://iconarchive.com/show/gentle-edges-icons-by-pixelkit/Trash-icon.html 
+- https://iconarchive.com/show/enkel-icons-by-froyoshark/iTerm-icon.html
+
+
+
+
+
+
+
+
+- https://iconarchive.com/show/windows-8-icons-by-icons8/Users-Name-icon.html
+
